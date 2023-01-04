@@ -1,0 +1,6 @@
+Ini merupakan project Sistem Pakar yang dibangun menggunakan bahasa pemrogramman JAVA. Projek ini dibangung menggunakan asas-asa PBO atau disebut dengan Pemrogramman Berorientasi Objek. Dalam melakukan pembangunan Sistem diperlukan beberapa Step yang diringkas sebagai berikut:
+1. Mencari Tema khusus yang akan dibahas "Penyakit Katarak"
+2. Setelah menentukan penyakit yang akan digunakan, dilanjutkan mencari data-data mengenai ciri-ciri spesifik yang dapat dijadikan indeks penilaian
+3. Setelah mencari data, maka menentukan bobot setiap pertanyaan yang akan diajukan kepada user
+4. Melakukan kalkulasi manual yang dibantu dengan excel yang akan digunakan sebagai pembanding antar perhitungan manual dan sistem
+5. Maka dilakukan pembangunan Sistem dan melakukan pengujian terhadap sistem
